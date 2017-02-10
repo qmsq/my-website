@@ -1,6 +1,6 @@
 # my-website
 an excellent website for anyone
 
-##Purpose
+##Purpose of the Repostory
 This changes will locally fock everything up
 Like heck.
